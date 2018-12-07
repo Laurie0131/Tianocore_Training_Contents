@@ -63,7 +63,7 @@ Unit 4
 
 ---
 @title[GitPitch]
-<p align="center"<span class="gold"   >About GitPitch</span></p>
+<p align="center"<span class="gold"   ><b>About GitPitch</b></span></p>
 <p style="line-height:70%">The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span></p>
 <span style="font-size:0.9em">GitPitch Key press controls:</span>
 <ul style="line-height:0.8;">
@@ -140,20 +140,29 @@ Unit 4
  
 ---
 @title[Lab Material]
-<p align="center"<span class="gold"   >Lab Material</span></p>
-The following github repositories contain the Lab Material :  
-- [Lab_Material_FW]( https://github.com/tianocore-training/Lab_Material_FW)
-  - Documentation
-  - DriverWizard
-  - edk2 (- Same as https://github.com/tianocore/edk2 )
-  - LabSampleCode
-- [PlatformBuildLab_FW](https://github.com/tianocore-training/PlatformBuildLab_FW)
-  - PlatformBuildLab
-    - Max (- source code for the Minnowboard Max / Turbot V.99)
+<p align="center"<span class="gold"   ><b>Lab Material</b></span></p>
+<span style="font-size:0.9em">The following github repositories contain the Lab Material :  </span>
+<ul style="line-height:0.8;">
+ <li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/Lab_Material_FW">Lab Material FW</a></span></li>
+ <ul style="list-style-type:disc" style="line-height:0.8;">
+  <li> <span style="font-size:0.7em">Documentation</span></li>
+  <li> <span style="font-size:0.7em">DriverWizard</span></li>
+  <li> <span style="font-size:0.7em">edk2 (- Same as https://github.com/tianocore/edk2 )</span></li>
+  <li> <span style="font-size:0.7em">LabSampleCode</span></li>
+ </ul>
+<li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/PlatformBuildLab_FW">PlatformBuildLab_FW</a></span></li>
+ <ul style="list-style-type:disc" style="line-height:0.8;">
+  <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
+   <ul style="list-style-type:disc" style="line-height:0.8;">
+     <li><span style="font-size:0.7em">Max (- source code for the Minnowboard Max / Turbot V.99) </span></li>
+	</ul> 
+  </ul>
+</ul>
+ 
  
 ---  
 @title[Schedule 2]
-#### <p align="center"<span class="gold"   >Suggested Schedule Table</span></p>
+#### <p align="center"<span class="gold"   ><b>Suggested Schedule Table</b></span></p>
 <table id="recTable">
 	<tr>
 		<td bgcolor="#0071c5" height=".025"><p style="line-height:020%"><span style="font-size:0.75em" ><b>Unit 1</b></span></p></td>
@@ -162,44 +171,44 @@ The following github repositories contain the Lab Material :
 		<td bgcolor="#0071c5" height=".025"><p style="line-height:020%"><span style="font-size:0.75em" ><b>Unit 4</b></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Overview</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Aware OS </span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Porting Project</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Network</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/UEFI_Boot_Flow_Pres">UEFI Overview</a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/UEFI_Aware_OS_Pres">UEFI Aware OS </a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/EDK_II_Porting_Projects_Pres">Porting Project</a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/UEFI_EDK_II_Network_Pres">UEFI Network</a></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Build Env </span></p></td>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Libs, Modules, Drivers </span></p></td>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Porting Board </span></p></td>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI FW Security </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/EDK_II_Build_Process_Pres">Build Env </a></span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/EDK_II_Modules_Libs_Drivers_Pres">Libs, Modules, Drivers </a></span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/EDK_II_Porting_Board_Pres">Porting Board </a></span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/UEFI_Platform_Security_Pres">UEFI FW Security </a></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Build Spec Files</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >PCDs</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Porting Beyond Shell</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Capsules</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/EDK_II_Build_Spec_Files_Pres">Build Spec Files</a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/Platform_Config_DB_PCD_Pres">PCDs</a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/EDK_II_Porting_Beyond_Shell_Pres">Porting Beyond Shell</a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/Capsule_Update_Pres">UEFI Capsules</a></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Open Source</span></p></td>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Writing UEFI Apps </span></p></td>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >EDK II Debugging </span></p></td>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI HII</span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/OpenSource_Platforms_Pres">Open Source</a></span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Writing UEFI Apps <a href="https://github.com/tianocore-training/Writing_UEFI_App_Lab">L </a>or <a href="https://github.com/tianocore-training/Writing_UEFI_App_Win_Lab">W</a></span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >EDK II Debugging <a href="https://github.com/tianocore-training/EDK_II_Debugging_Pres_Lab">L </a>or <a href="https://github.com/tianocore-training/EDK_II_Debugging_Pres_Win_Lab">W</a></span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/UEFI_HII_Overview_Pres_Lab">UEFI HII</a></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Platform Build Lab</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Drivers</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UDK Debugger Tool </span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >&nbsp;</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Platform Build Lab <a href="https://github.com/tianocore-training/Platform_Build_Lab">L </a> or <a href="https://github.com/tianocore-training/Platform_Build_Win_Lab">W </a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/UEFI_Driver_Pres">UEFI Drivers</a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/EDK_II_UDK_Debugger_Pres">UDK Debugger Tool </a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Shell </span></p></td>
-		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Driver Wizard Lab </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ><a href="https://github.com/tianocore-training/UEFI_Shell_App_Pres">UEFI Shell App </a></span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Driver Wizard Lab <a href="https://github.com/tianocore-training/UEFI_Driver_Wizard_Lab">L</a>or <a href="https://github.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab">W</a></span></p></td>
 		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
 		<td bgcolor="#323232" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Shell Lab</span></p></td>
-		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Driver Lab</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >Shell Lab<a href="https://github.com/tianocore-training/UEFI_Shell_Lab">L</a>or <a href="https://github.com/tianocore-training/UEFI_Shell_Win_Lab">W</a></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" >UEFI Driver Lab<a href="https://github.com/tianocore-training/UEFI_Driver_Porting_Lab">L</a>or <a href="https://github.com/tianocore-training/UEFI_Driver_Porting_Win_Lab">W</a></span></p></td>
 		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ></span></p></td>
 		<td bgcolor="#121212" height=".025"><p style="line-height:020%"><span style="font-size:0.5em" ></span></p></td>
 	</tr>
