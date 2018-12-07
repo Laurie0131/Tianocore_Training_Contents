@@ -64,18 +64,18 @@ Unit 4
 ---
 @title[GitPitch]
 <p align="center"<span class="gold"   >About GitPitch</span></p>
-The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span>
-<br>
-GitPitch Key press controls:
--  <span style="font-size:0.8em">Press **F** for full screen</span>
--  <span style="font-size:0.8em">Press **O** for Overview</span>
--  <span style="font-size:0.8em">Press **B** for Blackout </span>
--  <span style="font-size:0.8em">Press **M** for menu</span>
--  <span style="font-size:0.8em">Press **?** for help</span>
--  <span style="font-size:0.8em">Press **S** for Speaker notes</span>
-- <span style="font-size:0.8em">To get a PDF of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span>
-- <span style="font-size:0.8em">Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span>
- 
+<p style="line-height:70%">The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span></p>
+<span style="font-size:0.9em">GitPitch Key press controls:</span>
+<ul style="line-height:0.8;">
+ <li><span style="font-size:0.7em">Press **F** for full screen</span></li>
+ <li><span style="font-size:0.7em">Press **O** for Overview</span></li>
+ <li><span style="font-size:0.7em">Press **B** for Blackout </span></li>
+ <li><span style="font-size:0.7em">Press **M** for menu</span></li>
+ <li><span style="font-size:0.7em">Press **?** for help</span></li>
+ <li><span style="font-size:0.7em">Press **S** for Speaker notes</span></li>
+ <li><span style="font-size:0.7em">To get a PDF of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span></li>
+ <li><span style="font-size:0.7em">Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span></li>
+</ul> 
 
 ---  
 @title[Schedule 01]
@@ -84,15 +84,15 @@ GitPitch Key press controls:
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
-@fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_Boot_Flow_Pres/master#/' >Overview UEFI Boot Flow </a> </span><br>
-@fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Process_Pres/master#/' >EDK II Build Process</a> and <a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Spec_Files_Pres/master#/' >Build Spec Files </a> </span><br>
-@fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/OpenSource_Platforms_Pres/master#/' >EDK II Open Source Platforms </a> </span><br>
-@fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/'>EDK II Platform Build LABs -Linux </a>
+@fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Boot_Flow_Pres/master#/' >Overview UEFI Boot Flow </a> </span><br>
+@fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Process_Pres/master#/' >EDK II Build Process</a> and <a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Spec_Files_Pres/master#/' >Build Spec Files </a> </span><br>
+@fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/OpenSource_Platforms_Pres/master#/' >EDK II Open Source Platforms </a> </span><br>
+@fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/'>EDK II Platform Build Labs -Linux </a>
 (<a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/2'>Ovmf </a>| <a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/18'>Max HW setup</a> | <a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/26'>Max </a>)  </span><br>
-@fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em">OR <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/'>EDK II Platform Build -Windows </a>
-(<a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/9'>Nt32 </a>| <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/22'>Max HW setup</a> |<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/31'>Max </a>)  </span><br>
-@fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_Shell_App_Pres/master#/' >UEFI Shell Overview</a> & <a href='https://gitpitch.com/tianocore-training/UEFI_Shell_Lab/master#/' >Shell LAB </a> Or <a href="https://gitpitch.com/tianocore-training/UEFI_Shell_Win_Lab/master#/"> Nt32 Shell Lab</a> </span><br>
-@fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/' >UEFI Aware OS</a> , 
+@fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.8em">OR <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/'>EDK II Platform Build -Windows </a>
+(<a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/9'>Nt32 </a>| <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/22'>Max HW setup</a> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/31'>Max </a>)  </span><br>
+@fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Shell_App_Pres/master#/' >UEFI Shell Overview</a> & <a href='https://gitpitch.com/tianocore-training/UEFI_Shell_Lab/master#/' >Shell LAB </a> Or <a href="https://gitpitch.com/tianocore-training/UEFI_Shell_Win_Lab/master#/"> Nt32 Shell Lab</a> </span><br>
+@fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/' >UEFI Aware OS</a> , 
 <a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/14'>Secure Boot</a> , 
 <a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/22'>Smm/MMI</a> , 
 <a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/29'>coreboot</a> </span><br>
@@ -156,52 +156,52 @@ The following github repositories contain the Lab Material :
 #### <p align="center"<span class="gold"   >Suggested Schedule Table</span></p>
 <table id="recTable">
 	<tr>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 1</b></span></p></td>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 2</b></span></p></td>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 3</b></span></p></td>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 4</b></span></p></td>
+		<td bgcolor="#0071c5" height=".025"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 1</b></span></p></td>
+		<td bgcolor="#0071c5" height=".025"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 2</b></span></p></td>
+		<td bgcolor="#0071c5" height=".025"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 3</b></span></p></td>
+		<td bgcolor="#0071c5" height=".025"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 4</b></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Overview</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Aware OS </span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Project</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Network</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Overview</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Aware OS </span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Project</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Network</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Build Env </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Libs, Modules, Drivers </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Board </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI FW Security </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Build Env </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Libs, Modules, Drivers </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Board </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI FW Security </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Build Spec Files</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >PCDs</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Beyond Shell</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Capsules</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Build Spec Files</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >PCDs</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Beyond Shell</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Capsules</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Open Source</span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Writing UEFI Apps </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >EDK II Debugging </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI HII</span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Open Source</span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Writing UEFI Apps </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >EDK II Debugging </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI HII</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Platform Build Lab</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Drivers</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UDK Debugger Tool </span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp;</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Platform Build Lab</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Drivers</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UDK Debugger Tool </span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp;</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Shell </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Driver Wizard Lab </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Shell </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Driver Wizard Lab </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
+		<td bgcolor="#323232" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Shell Lab</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Driver Lab</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" ></span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" ></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >Shell Lab</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Driver Lab</span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" ></span></p></td>
+		<td bgcolor="#121212" height=".025"><p style="line-height:40%"><span style="font-size:0.5em" ></span></p></td>
 	</tr>
 </table>
 
