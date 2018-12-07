@@ -48,6 +48,8 @@ The next slides will have links to the appropriate slide show in the suggested o
 - <font color="yellow">Unit 3:</font>  <span style="font-size:0.8em">Porting and Debugging using a Open Source example with EDK II</span><br>
 - <font color="yellow">Unit 4:</font>  <span style="font-size:0.8em">Advanced topics for a shorter session after Units 1-3 completed: UEFI Network, UEFI Platform FW security, UEFI HII overview and lab</span>
 
+Presentations with Labs are for both @fa[linux gp-bullet-gold] Linux and @fa[windows gp-bullet-cyan] Windows
+ 
  
 Note:
 Unit 1
@@ -67,14 +69,14 @@ Unit 4
 <p style="line-height:70%">The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span></p>
 <span style="font-size:0.9em">GitPitch Key press controls:</span>
 <ul style="line-height:0.8;">
- <li><span style="font-size:0.7em">Press **F** for full screen</span></li>
- <li><span style="font-size:0.7em">Press **O** for Overview</span></li>
- <li><span style="font-size:0.7em">Press **B** for Blackout </span></li>
- <li><span style="font-size:0.7em">Press **M** for menu</span></li>
- <li><span style="font-size:0.7em">Press **?** for help</span></li>
- <li><span style="font-size:0.7em">Press **S** for Speaker notes</span></li>
- <li><span style="font-size:0.7em">To get a PDF of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span></li>
- <li><span style="font-size:0.7em">Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **F** </font>for full screen</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **O** </font>for Overview</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **B** </font>for Blackout </span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **M** </font>for menu</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **?** </font>for help</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **S** </font>for Speaker notes</span></li>
+ <li><span style="font-size:0.7em">To get a <font color="yellow"> PDF </font>of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span></li>
+ <li><span style="font-size:0.7em"><font color="yellow">Navigation</font>  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span></li>
 </ul> 
 
 ---  
@@ -107,9 +109,9 @@ Unit 4
 -->
 @fa[certificate gp-bullet-green]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/EDK_II_Modules_Libs_Drivers_Pres/master#/' >EDK II Libraries and Modules and Drivers </a> </span><br>
 @fa[certificate gp-bullet-cyan]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Platform_Config_DB_PCD_Pres/master#/' >EDK II Platforms Configuration Database (PCD)  </a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Writing_UEFI_App_Lab/master#/' >UEFI Application Writers LAB-@fa[linux gp-bullet-gold] </a> &nbsp;&nbsp;- <a href="https://gitpitch.com/tianocore-training/Writing_UEFI_App_Win_Lab/master#/">@fa[windows gp-bullet-cyan]</a> </span> <br>
+@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Writing_UEFI_App_Lab/master#/' >UEFI Application Writers LAB-@fa[linux gp-bullet-gold] </a> &nbsp;&nbsp;OR&nbsp; <a href="https://gitpitch.com/tianocore-training/Writing_UEFI_App_Win_Lab/master#/">@fa[windows gp-bullet-cyan]</a> </span> <br>
 @fa[certificate gp-bullet-magenta]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_Driver_Pres/master#/' >UEFI Driver Model</a> - <a href="https://gitpitch.com/tianocore-training/UEFI_Driver_Wizard_lab/master#/">@fa[linux gp-bullet-gold] UEFI Driver Wizard </a> & <a href='https://gitpitch.com/tianocore-training/UEFI_Driver_Porting_lab/master#/' >Porting Lab </a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://gitpitch.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab/master#/'>@fa[windows gp-bullet-cyan] Wizard </a>&nbsp;&nbsp;- <a href='https://gitpitch.com/tianocore-training/UEFI_Driver_Porting_Win_Lab/master#/'>@fa[windows gp-bullet-cyan] Porting Lab </a>   </span> 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OR&nbsp;<a href='https://gitpitch.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab/master#/'>@fa[windows gp-bullet-cyan] UEFI Driver Wizard </a>&nbsp;&nbsp;& <a href='https://gitpitch.com/tianocore-training/UEFI_Driver_Porting_Win_Lab/master#/'> Porting Lab </a>   </span> 
 
 ---  
 @title[Schedule 03]
