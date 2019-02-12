@@ -63,21 +63,6 @@ Unit 4
   - UEFI / EDK II Network,  UEFI / EDK II Security, UEFI Capsule Update, UEFI / EDK II - HII Lab, EDK Compatibility Package
 
 
----
-@title[GitPitch]
-<p align="center"<span class="gold"   ><b>About GitPitch</b></span></p>
-<p style="line-height:70%">The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span></p>
-<span style="font-size:0.9em">GitPitch Key press controls:</span>
-<ul style="line-height:0.8;">
- <li><span style="font-size:0.7em">Press<font color="yellow"> **F** </font>for full screen</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **O** </font>for Overview</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **B** </font>for Blackout </span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **M** </font>for menu</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **?** </font>for help</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **S** </font>for Speaker notes</span></li>
- <li><span style="font-size:0.7em">To get a <font color="yellow"> PDF </font>of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span></li>
- <li><span style="font-size:0.7em"><font color="yellow">Navigation</font>  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span></li>
-</ul> 
 
 ---  
 @title[Schedule 01]
@@ -162,6 +147,22 @@ Unit 4
   </ul>
 </ul>
  
+
+---
+@title[GitPitch]
+<p align="center"<span class="gold"   ><b>About GitPitch</b></span></p>
+<p style="line-height:70%">The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span></p>
+<span style="font-size:0.9em">GitPitch Key press controls:</span>
+<ul style="line-height:0.8;">
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **F** </font>for full screen</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **O** </font>for Overview</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **B** </font>for Blackout </span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **M** </font>for menu</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **?** </font>for help</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **S** </font>for Speaker notes</span></li>
+ <li><span style="font-size:0.7em">To get a <font color="yellow"> PDF </font>of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span></li>
+ <li><span style="font-size:0.7em"><font color="yellow">Navigation</font>  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span></li>
+</ul> 
  
 ---  
 @title[Schedule 2]
