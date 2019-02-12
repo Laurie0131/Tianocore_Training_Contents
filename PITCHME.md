@@ -317,6 +317,17 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @snapend
 
 
+@snap[north span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">yellows</span>
+@box[bg-yellow-pp text-black rounded my-box-pad2  ](<p style="line-height:60%">yellow-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-yellow text-black rounded my-box-pad2  ](<p style="line-height:60%">yellow <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-cream text-black rounded my-box-pad2  ](<p style="line-height:60%">cream <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-cream2 text-black rounded my-box-pad2  ](<p style="line-height:60%">cream2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%">white <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
 ---  
 @title[Summary]
 <BR>
