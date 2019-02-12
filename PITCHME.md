@@ -289,10 +289,10 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 
 ---
 @title[Colors]
-### <p align="center"><span class="gold"   >Colors </span></p><br>
-<span style="font-size:0.9em">Some example colors for boxes and text defined in `patchme.css`</span>
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
+<span style="font-size:0.6em">Some example colors for boxes and text defined in `patchme.css`</span></p>
 
-@snap[north-west span-25 fragment]
+@snap[north-west span-25 ]
 <br>
 <br>
 <span style="font-size:0.9em">Reds -purples</span>
@@ -302,6 +302,20 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @box[bg-purple text-white rounded my-box-pad2  ](<p style="line-height:60%">purple <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @box[bg-purple-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">purple-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @snapend
+
+
+
+@snap[north span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">Oranges</span>
+@box[bg-brick text-white rounded my-box-pad2  ](<p style="line-height:60%">brick <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-orange text-white rounded my-box-pad2  ](<p style="line-height:60%">orange <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-lt-orange text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-orange <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-gold2 text-white rounded my-box-pad2  ](<p style="line-height:60%">gold2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-lt-gold text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-gold <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
 
 ---  
 @title[Summary]
