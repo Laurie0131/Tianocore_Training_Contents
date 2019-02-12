@@ -336,7 +336,7 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 <br>
 <br>
 <span style="font-size:0.9em">blues</span>
-@box[bg-light-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">light-lt-blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-light-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">light-lt-blue-pp <br>&nbsp;</span></p>)
 @box[bg-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @box[bg-blue text-white rounded my-box-pad2  ](<p style="line-height:60%">blue <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @box[bg-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
@@ -364,6 +364,34 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @box[bg-u-term text-white rounded my-box-pad2  ](<p style="line-height:60%">u-term <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @box[bg-ubuntu text-white rounded my-box-pad2  ](<p style="line-height:60%">ubuntu <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%">black <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+---
+@title[Colors]
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Greys</span></p>
+
+@snap[north-west span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">Dark Grey</span>
+@box[bg-grey-00 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">grey-00 <br>&nbsp;</span></p>)
+@box[bg-grey-05 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-05<br>&nbsp;</span></p>)
+@box[bg-grey-15 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-15<br>&nbsp;</span></p>)
+@box[bg-grey-25 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-25<br>&nbsp;</span></p>)
+@box[bg-grey-35 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-35<br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[north span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">Light Grey</span>
+@box[bg-grey-50 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">grey-50 <br>&nbsp;</span></p>)
+@box[bg-grey-65 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-65<br>&nbsp;</span></p>)
+@box[bg-grey-75 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-75<br>&nbsp;</span></p>)
+@box[bg-grey-85 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-85<br>&nbsp;</span></p>)
+@box[bg-grey-90 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-90<br>&nbsp;</span></p>)
 @snapend
 
 ---  
