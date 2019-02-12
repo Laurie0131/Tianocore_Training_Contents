@@ -142,10 +142,17 @@ Unit 4
  <ul style="list-style-type:disc" style="line-height:0.8;">
   <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
    <ul style="list-style-type:disc" style="line-height:0.8;">
-     <li><span style="font-size:0.7em">Max (- source code for the Minnowboard Max / Turbot V.99) </span></li>
+     <li><span style="font-size:0.7em">Max (- source code for the Minnowboard Max / Turbot V 1.00) </span></li>
 	</ul> 
   </ul>
-</ul>
+<li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/PlatformBuildLab_UP2_FW">PlatformBuildLab_UP2_FW</a></span></li>
+ <ul style="list-style-type:disc" style="line-height:0.8;">
+  <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
+   <ul style="list-style-type:disc" style="line-height:0.8;">
+     <li><span style="font-size:0.7em">MV3 (- source code for the Minnowboard V3 - Apollo Lake with (UP<sup>2</sup> board)) </span></li>
+	</ul> 
+  </ul>
+ </ul>
  
 
 ---
