@@ -369,7 +369,7 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 
 ---
 @title[Colors]
-<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Greys</span></p>
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Greys - Grays</span></p>
 
 @snap[north-west span-25 ]
 <br>
@@ -392,6 +392,15 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @box[bg-grey-75 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-75<br>&nbsp;</span></p>)
 @box[bg-grey-85 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-85<br>&nbsp;</span></p>)
 @box[bg-grey-90 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-90<br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[north-east span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">white/black</span>
+@box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">black grey-00<br>&nbsp;</span></p>)
+@box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">white grey-100<br>&nbsp;</span></p>)
 @snapend
 
 ---  
