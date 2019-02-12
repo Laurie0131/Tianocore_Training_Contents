@@ -149,7 +149,7 @@ Unit 4
  <ul style="list-style-type:disc" style="line-height:0.8;">
   <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
    <ul style="list-style-type:disc" style="line-height:0.8;">
-     <li><span style="font-size:0.7em">MV3 (- source code for - Apollo Lake (Broxton)- (UP<sup>2</sup> board)) </span></li>
+     <li><span style="font-size:0.7em">MV3 (- source code for - Apollo Lake (Broxton - UP<sup>2</sup> board)) </span></li>
 	</ul> 
   </ul>
  </ul>
