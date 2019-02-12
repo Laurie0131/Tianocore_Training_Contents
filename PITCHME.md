@@ -328,6 +328,44 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%">white <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @snapend
 
+---
+@title[Colors]
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Continued</span></p>
+
+@snap[north-west span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">blues</span>
+@box[bg-light-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">light-lt-blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-blue text-white rounded my-box-pad2  ](<p style="line-height:60%">blue <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-royal text-white rounded my-box-pad2  ](<p style="line-height:60%">royal <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+
+@snap[north span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">blues - greens</span>
+@box[bg-navy text-white rounded my-box-pad2  ](<p style="line-height:60%">navy <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-cyan text-white rounded my-box-pad2  ](<p style="line-height:60%">cyan <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-green text-white rounded my-box-pad2  ](<p style="line-height:60%">green <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-green-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">green-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-green2 text-white rounded my-box-pad2  ](<p style="line-height:60%">green2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[north-east span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">other colors</span>
+@box[bg-u-term text-white rounded my-box-pad2  ](<p style="line-height:60%">u-term <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-ubuntu text-white rounded my-box-pad2  ](<p style="line-height:60%">ubuntu <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%">black <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
 ---  
 @title[Summary]
 <BR>
