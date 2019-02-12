@@ -282,12 +282,27 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 
 
 ---?image=assets/images/binary-strings-black2.jpg
-@title[UEFI Boot Flow Section]
+@title[Section divider ]
 <br><br><br><br><br>
 ## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section Divider example</span>
 <span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an example for a section divider</span>
 
-  
+---
+@title[Colors]
+### <p align="center"><span class="gold"   >Colors </span></p><br>
+<span style="font-size:0.9em">Some example colors for boxes and text defined in `patchme.css`</span>
+
+@snap[north-west span-25 fragment]
+<br>
+<br>
+<span style="font-size:0.9em">Reds -purples</span>
+@box[bg-magenta text-white rounded my-box-pad2  ](<p style="line-height:60%">magenta <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-pink text-white rounded my-box-pad2  ](<p style="line-height:60%">pink <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-red-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">red-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-purple text-white rounded my-box-pad2  ](<p style="line-height:60%">purple <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-purple-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">purple-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
 ---  
 @title[Summary]
 <BR>
