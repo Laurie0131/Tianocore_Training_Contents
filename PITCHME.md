@@ -288,7 +288,7 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 <span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an example for a section divider</span>
 
 ---
-@title[Colors]
+@title[Colors 01]
 <p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
 <span style="font-size:0.6em">Some example colors for boxes and text defined in `patchme.css`</span></p>
 
@@ -328,8 +328,8 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%">white <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @snapend
 
----
-@title[Colors]
++++
+@title[Colors 02]
 <p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Continued</span></p>
 
 @snap[north-west span-25 ]
@@ -367,8 +367,8 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @snapend
 
 
----
-@title[Colors]
++++
+@title[Colors 03]
 <p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Greys - Grays</span></p>
 
 @snap[north-west span-25 ]
@@ -402,6 +402,22 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">black grey-00<br>&nbsp;</span></p>)
 @box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">white grey-100<br>&nbsp;</span></p>)
 @snapend
+---
+@title[Colors - text]
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
+<span style="font-size:0.6em">Some example colors for boxes and text defined in `patchme.css`</span></p>
+<p style="line-height:70%" ><span style="font-size:0.8em">
+@color[ yellow]( example color: yellow)<br>
+@color[ cyan]( example color: cyan)<br>
+@color[#87E2A9 ]( example color: lt_green )<br>
+@color[#A8ff60 ]( example color: lt_green2)<br>
+@color[#FFC000 ]( example color: gold2 )<br>
+@color[#BF5122 ]( example color: brick)<br>
+@color[#e49436 ]( example color: gold)<br>
+@color[gray ]( example color: gray)<br>
+@color[#A20000]( example color: red)<br>
+</span></p>
+
 
 ---  
 @title[Summary]
