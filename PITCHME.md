@@ -317,7 +317,7 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @snapend
 
 
-@snap[north span-25 ]
+@snap[north-east span-25 ]
 <br>
 <br>
 <span style="font-size:0.9em">yellows</span>
