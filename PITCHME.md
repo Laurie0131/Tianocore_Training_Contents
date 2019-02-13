@@ -406,13 +406,13 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 @title[Colors - text]
 <p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
 <span style="font-size:0.6em">Some example colors for  text defined in `patchme.css`</span></p>
-<p style="line-height:70%" ><span style="font-size:0.8em">
+<p style="line-height:80%" ><span style="font-size:0.85em">
 @color[ yellow]( example color: yellow)<br>
 @color[#00FFFF]( example color: cyan)<br>
 @color[#87E2A9 ]( example color: lt_green )<br>
 @color[#A8ff60 ]( example color: lt_green2)<br>
 @color[#FFC000 ]( example color: gold2 )<br>
-@color[#BF5122 ]( example color: brick)<br>
+@color[#BF5122 ]( example color: brick - hyper link )<br>
 @color[#e49436 ]( example color: gold - Slide Titles)<br>
 @color[gray ]( example color: gray)<br>
 @color[black ]( example color: black)<br>
